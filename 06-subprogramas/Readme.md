@@ -58,3 +58,38 @@ int main() {
 
     return 0;
 }
+```
+### Implementação em Python
+
+A passagem de parâmetros em Python é mais sutil e frequentemente descrita como "passagem por atribuição" ou "passagem por referência de objeto".
+
+```python
+# 1. COMPORTAMENTO COM TIPOS IMUTÁVEIS (int, str, tupla)
+# A variável 'numero' dentro da função é uma nova referência.
+# A alteração não afeta a variável original.
+def tenta_modificar_numero(numero):
+    numero = numero + 10
+    print(f"Dentro da função (número): {numero}")
+
+# 2. COMPORTAMENTO COM TIPOS MUTÁVEIS (list, dict)
+# A função recebe a referência para o MESMO objeto lista.
+# Modificar o CONTEÚDO do objeto afeta a variável original.
+def modifica_lista(minha_lista):
+    minha_lista.append(4) # Esta modificação será visível fora
+    print(f"Dentro da função (lista): {minha_lista}")
+
+
+# --- Testes ---
+print("--- Testando com Tipo Imutável (int) ---")
+numero_original = 20
+print(f"Valor original ANTES da função: {numero_original}")
+tenta_modificar_numero(numero_original)
+print(f"Valor original DEPOIS da função: {numero_original}\n")
+
+
+print("--- Testando com Tipo Mutável (list) ---")
+lista_original = [1, 2, 3]
+print(f"Valor original ANTES da função: {lista_original}")
+modifica_lista(lista_original)
+print(f"Valor original DEPOIS da função: {lista_original}")
+```
