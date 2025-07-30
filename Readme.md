@@ -10,9 +10,7 @@
 
 ### Sobre o Projeto
 
-Este repositório foi desenvolvido como parte da avaliação da disciplina de Fundamentos de Linguagens de Programação. [cite_start]O objetivo central do trabalho é proporcionar uma vivência prática e crítica dos principais conceitos de linguagens de programação, utilizando como referência a obra "Conceitos de Linguagens de Programação" de Robert W. Sebesta[cite: 5].
-
-O projeto é composto por 14 desafios práticos, cada um abordando um dos tópicos fundamentais estudados ao longo da disciplina[cite: 6, 9]. [cite_start]Cada desafio foi desenvolvido de forma independente, com soluções personalizadas para garantir a originalidade e evitar o plágio, conforme as diretrizes estabelecidas[cite: 7].
+Este repositório foi desenvolvido como parte da avaliação da disciplina de Fundamentos de Linguagens de Programação. O objetivo central do trabalho é proporcionar uma vivência prática e crítica dos principais conceitos de linguagens de programação, utilizando como referência a obra "Conceitos de Linguagens de Programação" de Robert W. Sebesta.
 
 ### Estrutura do Repositório
 
