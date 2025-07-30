@@ -1,6 +1,6 @@
 # Desafio 05: Estruturas de Controle
 
-[cite_start]Este diretório contém a resolução do quinto desafio, que consiste em desenvolver um programa simples para demonstrar o uso de estruturas de controle (seleção, repetição e controle de fluxo) dentro de um contexto original e criativo.
+Este diretório contém a resolução do quinto desafio, que consiste em desenvolver um programa simples para demonstrar o uso de estruturas de controle (seleção, repetição e controle de fluxo) dentro de um contexto original e criativo.
 
 ---
 
