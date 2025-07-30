@@ -1,6 +1,6 @@
 # Desafio 01: Introdução às Linguagens de Programação
 
-Este diretório contém o material desenvolvido para o primeiro desafio do trabalho de Fundamentos de Linguagens de Programação. [cite_start]O objetivo é apresentar uma linha do tempo visual da evolução das linguagens de programação, destacando os marcos que considerei mais relevantes para a história da computação[cite: 13].
+Este diretório contém o material desenvolvido para o primeiro desafio do trabalho de Fundamentos de Linguagens de Programação. O objetivo é apresentar uma linha do tempo visual da evolução das linguagens de programação, destacando os marcos que considerei mais relevantes para a história da computação.
 
 ---
 
